@@ -2,7 +2,7 @@
 
 Curso para auxiliar no aprendizado de JavaScript ES6, Node.js, Vue.js e muito mais
 
-### Conteúdos e conceitos:
+### Conteúdos e conceitos disponíveis:
 ###### Variaveis, Funções
 
 ### Ferramentas:
