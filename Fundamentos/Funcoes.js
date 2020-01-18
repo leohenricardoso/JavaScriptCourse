@@ -21,3 +21,12 @@ console.log(soma(3, 3));
 console.log(subtracao(5, 2));
 imprimir("Teste");
 console.log(multiplicação(3, 5))
+
+//Output:
+/*
+12
+6
+3
+Teste
+15
+*/
