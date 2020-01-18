@@ -1,8 +1,14 @@
-//Because it is global in scope, even though it is in different code blocks, one var will always overwrite another var with the same name.
-
+/*
+Pelo fato de var ser global quando se trata de blocos de código,
+nesse caso var number será sobrescrito
+*/
 var number = 1
 {
     var number = 2
     console.log("inside = ", number)
 }
 console.log("outside = ", number)
+
+//Output:
+//inside =  2
+//outside =  2

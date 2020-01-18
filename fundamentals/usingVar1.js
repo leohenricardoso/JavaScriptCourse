@@ -1,4 +1,8 @@
-//A global var can be accessed from anywhere in the code.
+/*
+Para usar variavel do tipo var precisa ter consciencia de que ela pode ser
+acessada de qualquer lugar do script caso ela esteja em um bloco de código.
+Caso uma var seja declarada dentro de uma função, ela estará disponivel apenas nessa função.
+*/
 
 {
     {
@@ -10,10 +14,8 @@
     }
 }
 
-
 console.log(globalVar)
 
-//A variable within a function can only be used within that function.
 function varTest() {
     var localVar = 123
     console.log(localVar)
@@ -21,5 +23,6 @@ function varTest() {
 
 varTest()
 
-//We cannot call a var that is within a function.
-//console.log(localVar)
+//Output:
+//Global?
+//123
