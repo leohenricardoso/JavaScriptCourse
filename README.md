@@ -1,6 +1,6 @@
 # JavaScript - Do iniciante ao avançado
 
-Curso para auxiliar no aprendizado de JavaScript ES6, Node.js, Vue.js e muito mais
+Curso para auxiliar no aprendizado de JavaScript, Node.js, Vue.js e muito mais
 
 ### Conteúdos e conceitos disponíveis:
 ###### Variaveis, Funções
@@ -12,7 +12,7 @@ Curso para auxiliar no aprendizado de JavaScript ES6, Node.js, Vue.js e muito ma
 ### Instruções:
 ###### => Cada pasta possui seus respectivos conteúdo. Cada trecho de código está comentado explicando o que está fazendo.
 ###### => No final de cada arquivo, tem um comentário com o resultado do código.
-###### => Para cada pasta de conteúdo teórico, tem uma pasta de exercícios.
+###### => Dentro de cada pasta de conteúdo teórico, tem uma pasta de exercícios.
 
 ### Contatos:
 ###### Email: leohenricardoso@gmail.com
