@@ -1,5 +1,5 @@
 /*
-
+ => Métodos mais comuns usados em arrays
 */
 const jogadores = ['C. Ronaldo', 'Neymar', 'Messi', 'Pelé']
 
