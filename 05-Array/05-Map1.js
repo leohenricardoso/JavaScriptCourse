@@ -18,5 +18,6 @@ resultado = nums.map(soma10).map(triplo).map(money) //Transformação sucessiva
 console.log(nums, resultado)
 //Output:
 /*
-
+[ 1, 2, 3, 4, 5 ] [ 2, 4, 6, 8, 10 ]
+[ 1, 2, 3, 4, 5 ] [ 'R$ 33,00', 'R$ 36,00', 'R$ 39,00', 'R$ 42,00', 'R$ 45,00' ]
 */
