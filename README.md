@@ -11,8 +11,8 @@ Curso para auxiliar no aprendizado de JavaScript, Node.js, Vue.js e muito mais
 
 ### Instruções:
 ###### => Cada pasta possui seus respectivos conteúdo. Cada trecho de código está comentado explicando o que está fazendo.
+###### => No inicio de cada arquivo, tem uma breve descrição do que está sendo abordado.
 ###### => No final de cada arquivo, tem um comentário com o resultado do código.
-###### => Dentro de cada pasta de conteúdo teórico, tem uma pasta de exercícios.
 
 ### Contatos:
 ###### Email: leohenricardoso@gmail.com
