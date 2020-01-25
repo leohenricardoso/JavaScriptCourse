@@ -1,5 +1,6 @@
 /*
 => A função reduce acumula os dados de um determinado array
+=> Reduce tem a função de agregar(juntar) todos os dados em um só
 => acumulador = dados já somados anteriormente
 => atual = dado atual que irá ser acumulado
 => Se quiser, pode passar após passar o acumulador e o atual, um valor inicial.
