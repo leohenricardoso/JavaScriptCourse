@@ -12,7 +12,7 @@ let b = 5
 const c = 'constante'
 
 var a = 30
-//let b = 20 => isso daria erro "Identifier 'b' has already been declared"
+//let b = 20 =======> isso daria erro "Identifier 'b' has already been declared"
 b = 20
 console.log(a, b)
 
