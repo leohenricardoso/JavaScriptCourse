@@ -15,6 +15,6 @@ Curso para auxiliar no aprendizado de JavaScript, Node.js, Vue.js e muito mais
 ###### => No final de cada arquivo, tem um comentário com o resultado do código.
 
 ### Contatos:
-###### Email: leohenricardoso@gmail.com
+###### Email: contato@leohenrique.me
 ###### Linkedin: https://www.linkedin.com/in/leonardo-henrique-972837162/
 ###### Codersrank: https://profile.codersrank.io/user/leohenricardoso
